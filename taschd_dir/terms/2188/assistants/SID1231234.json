@@ -1,0 +1,10 @@
+{
+  "Email" : "m@udel.edu",
+  "Course Enrolled" : [ "CISC 375 -", "CISC 675 - 010 010 010 020L 020L" ],
+  "Skills" : [ "Java", "C", "Javascript", ".NET", "Swift", "Bash", "Python", "SQL", "Matlab" ],
+  "First Name" : "Michael",
+  "Time Schedule" : [ "Tue 11:15–12:30", "Thu 11:15–12:30" ],
+  "ID" : 1231234,
+  "Graduate Student" : true,
+  "Last Name" : "Oyefusi"
+}

@@ -1,0 +1,68 @@
+{
+  "Sections" : [ {
+    "Section Number" : "010",
+    "Section Type" : "",
+    "Instructor name" : "Siegel,Stephen",
+    "Location" : "MDH206",
+    "Current Enrollment" : "9",
+    "Enrollment Cap" : "25",
+    "TA Assigned" : false,
+    "Num of TA" : "0",
+    "Num of LA" : "0",
+    "MTAC" : false,
+    "Time Schedule" : [ "Wed 16:40–17:55" ]
+  }, {
+    "Section Number" : "010",
+    "Section Type" : "",
+    "Instructor name" : "Siegel,Stephen",
+    "Location" : "MDH216",
+    "Current Enrollment" : "11",
+    "Enrollment Cap" : "20",
+    "TA Assigned" : false,
+    "Num of TA" : "0",
+    "Num of LA" : "0",
+    "MTAC" : false,
+    "Time Schedule" : [ "Tue 11:15–12:30", "Thu 11:15–12:30" ]
+  }, {
+    "Section Number" : "010",
+    "Section Type" : "",
+    "Instructor name" : "Siegel,Stephen",
+    "Location" : "MDH216",
+    "Current Enrollment" : "11",
+    "Enrollment Cap" : "25",
+    "TA Assigned" : false,
+    "Num of TA" : "0",
+    "Num of LA" : "0",
+    "MTAC" : false,
+    "Time Schedule" : [ "Wed 16:40–17:55" ]
+  }, {
+    "Section Number" : "020",
+    "Section Type" : "L",
+    "Instructor name" : "Siegel,Stephen",
+    "Location" : "BRL215",
+    "Current Enrollment" : "10",
+    "Enrollment Cap" : "45",
+    "TA Assigned" : false,
+    "Num of TA" : "0",
+    "Num of LA" : "0",
+    "MTAC" : false,
+    "Time Schedule" : [ "Tue 11:15–12:30", "Thu 11:15–12:30" ]
+  }, {
+    "Section Number" : "020",
+    "Section Type" : "L",
+    "Instructor name" : "Siegel,Stephen",
+    "Location" : "BRL205",
+    "Current Enrollment" : "11",
+    "Enrollment Cap" : "35",
+    "TA Assigned" : false,
+    "Num of TA" : "0",
+    "Num of LA" : "0",
+    "MTAC" : false,
+    "Time Schedule" : [ "Wed 16:40–17:55" ]
+  } ],
+  "Skills" : [ "Java", "Javascript", "Python" ],
+  "Course Code" : "675",
+  "Prefix" : "CISC",
+  "Has Lab" : true,
+  "Course Name" : "Advanced Software Engineering"
+}
